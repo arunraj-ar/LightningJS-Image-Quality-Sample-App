@@ -1,5 +1,3 @@
-# lngImage
-
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
